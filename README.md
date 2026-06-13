@@ -14,3 +14,32 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# Todo App
+
+A simple Todo App built using React and Vite.
+
+## Features
+
+* Add Tasks
+* Delete Tasks
+* Mark Tasks as Complete
+* Local Storage Support
+* Task Counter
+
+## Technologies Used
+
+* React
+* Vite
+* JavaScript
+* CSS
+
+## Run Locally
+
+npm install
+
+npm run dev
+
+## Author
+
+Arpita Srivastava
+
